@@ -151,7 +151,7 @@
 	</tr>
 	<tr>
 		<td>I have no worries.</td>
-		<td></td>
+		<td>good - upbeat</td>
 	</tr>
 </table>
 <table>
@@ -2391,7 +2391,7 @@
 	</tr>
 	<tr>
 		<td>There are other ways to live.</td>
-		<td></td>
+		<td>good - timid</td>
 	</tr>
 	<tr>
 		<td>You had a good run.</td>

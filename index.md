@@ -2557,7 +2557,7 @@
 	</tr>
 	<tr>
 		<td>Aren't you scared?</td>
-		<td></td>
+		<td>good - gloomy</td>
 	</tr>
 	<tr>
 		<td>I'll have more fun first.</td>
@@ -2697,7 +2697,7 @@
 	</tr>
 	<tr>
 		<td>Why do we fight?</td>
-		<td>good - upbeat</td>
+		<td>good - upbeat; ok - gloomy</td>
 	</tr>
 	<tr>
 		<td>I don't really know...</td>
